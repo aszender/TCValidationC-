@@ -1,6 +1,3 @@
-Got it 👍 — here’s a **clean, short GitHub-style README.md** version (in proper Markdown) for your **TC Validator** C++ project — without long explanations, just the essentials 👇
-
----
 
 ````markdown
 # 💳 TC Validator (C++)
