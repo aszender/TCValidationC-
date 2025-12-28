@@ -1,0 +1,18 @@
+4539670000001234 : Visa : invalid
+4556737586899855 : Visa : valid
+4716108999716531 : Visa : valid
+6011111111111117 : Discover : valid
+6011000990139424 : Discover : valid
+378282246310005 : American Express : valid
+371449635398431 : American Express : valid
+30569309025904 : Unknown : invalid
+5555555555554444 : MasterCard : valid
+5105105105105100 : MasterCard : valid
+2223000048400011 : MasterCard : valid
+2223003122003222 : MasterCard : valid
+3566002020360505 : Unknown : invalid
+490154203237518 : Visa : valid
+1234567890123456 : Unknown : invalid
+9999999999999999 : Unknown : invalid
+4444444444444448 : Visa : valid
+4111111111111111 : Visa : valid
