@@ -1,6 +1,5 @@
 
-````markdown
-\# TC Validator (C++)
+# TC Validator (C++)
 
 A small, production-style C++ console tool that validates credit card numbers with the **Luhn checksum** and performs **card brand detection** (Visa, MasterCard, AmEx, Discover).
 
